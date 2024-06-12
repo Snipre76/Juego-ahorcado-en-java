@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Ahorcado {
     public static void main(String[] args) throws Exception {
         // Clase scanner que nos permite que el usuario escriba
+
+        //HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//
+        
         Scanner scanner = new Scanner(System.in);
         // Declaraciones y asignaciones
         String palabraSecreta = "inteligencia";
